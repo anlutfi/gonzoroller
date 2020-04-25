@@ -1,0 +1,27 @@
+{
+    "filmdrive": {
+	"speed": 8000.0,
+	"speed2": 120.0,
+	"accel": 10.0,
+	"ignoreInitial": 1720,
+	"faultTreshold": 8000
+
+    },
+    "feeder": {
+	"speed": 3000.0,
+	"speed2": 3000.0,
+	"accel": 100.0,
+	"ignoreInitial": 10,
+	"targetTime": 0.4,
+	"faultTreshold": 8000
+
+    },
+    "pickup": {
+	"speed": 3000.0,
+	"speed2": 3000.0,
+	"accel": 100.0,
+	"ignoreInitial": 10,
+	"targetTime":0.4,
+	"faultTreshold": 8000
+    }
+}
